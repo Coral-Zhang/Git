@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-//回电话
+
 @interface AppDelegate ()
 
 @end
